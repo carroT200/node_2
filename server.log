@@ -1,0 +1,6 @@
+2024-09-08T16:04:58.323Z - POST /api/articles/create - Body: {"title":"New Article","text":"Content of the new article","author":"John Smith"}
+2024-09-08T16:05:48.382Z - POST /api/articles/create - Body: {"title":"new Article","text":"Content of the new article","author":"tim"}
+2024-09-08T16:33:58.372Z - POST /api/articles/create - Body: {"title":"New Article","text":"Content of the new article","author":"John Smith"}
+2024-09-08T16:34:15.944Z - POST /api/articles/create - Body: {"title":"New Article","text":"Content of the new article","author":"Tim"}
+2024-09-08T16:40:18.244Z - POST /api/articles/update?id=2 - Body: {"title":"Updated Article","text":"Updated content"}
+2024-09-08T16:41:45.433Z - POST /api/comments/create - Body: {"articleId":2,"text":"Great article!","author":"Alex"}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 2,
+    "title": "Updated Article",
+    "text": "Updated content",
+    "date": 1725813618240,
+    "author": "Tim",
+    "comments": [
+      {
+        "id": 1725813705429,
+        "articleId": 2,
+        "text": "Great article!",
+        "date": 1725813705430,
+        "author": "Alex"
+      }
+    ]
+  }
+]
